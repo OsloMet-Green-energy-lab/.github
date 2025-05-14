@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+This github page contains all the work & projects being done in the Green Energy Lab at OsloMet P35.
+
+### You can find things like
+
+- What are the windtunnels for
+- How to use certain equipment
+- Find 3d models for project components.
+- Find installation guides
+
 <!--
 
 **Here are some ideas to get you started:**
